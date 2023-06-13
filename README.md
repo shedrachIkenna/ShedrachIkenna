@@ -1,23 +1,23 @@
-<h1>💻 Shedrach Ikenna</h2>
+<h1>Hi there 👋, I'm Shedrach Ikenna</h2>
 
 **`Data Analyst 📊`**
 
-Hi there 👋, I am a dedicated data analyst with a keen interest in the fascinating world of data science and analytics. I'm passionate about not only extracting actionable insights from complex datasets but also presenting them in a visually compelling and understandable manner.
+I am a dedicated data analyst with a keen interest in the fascinating world of data science and analytics. I'm passionate about not only extracting actionable insights from complex datasets but also presenting them in a visually compelling and understandable manner.
 
 - 🌱 I possess strong commitment to continuous learning and professional growth 
 - 👯 I’m looking to collaborate on data science and analytics projects
 
-
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Top Data Science/Analytics Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShedrachIkenna)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
-
-  <a href="https://github.com/DenverCoder1?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+   <a href="https://github.com/ShedrachIkenna/Data-Cleaning-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Data-Cleaning-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ShedrachIkenna/Nashville_Housing_Data_Cleaning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Nashville_Housing_Data_Cleaning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/ShedrachIkenna/Nashville_Housing_Data_Cleaning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Nashville_Housing_Data_Cleaning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+<p>
+  <a href="https://github.com/ShedrachIkenna?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 
