@@ -1,8 +1,8 @@
-<h1>Hi there 👋, I'm Shedrach Ikenna</h2>
+<h1>Hi there 👋, I'm Shedrach Ikenna Nwali</h2>
 
-**`Data Analyst 📊`**
+**`Data Scientist || Machine Learning Engineer 📊`**
 
-I am a dedicated data analyst with a keen interest in the fascinating world of data science and analytics. I'm passionate about not only extracting actionable insights from complex datasets but also presenting them in a visually compelling and understandable manner.
+I am a Passionate data scientist skilled in transforming complex data into actionable insights. Experienced with creating and deploying robust machine learning models. Let's connect and drive data-driven innovation together
 
 - 🌱 I possess strong commitment to continuous learning and professional growth 
 - 👯 I’m looking to collaborate on data science and analytics projects
