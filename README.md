@@ -1,14 +1,14 @@
 <h1>Hi there 👋, I'm Shedrach Ikenna Nwali</h2>
 
-**`Data Scientist || Machine Learning Engineer 📊`**
+**`Data Engineer || Data Scientist || Machine Learning Engineer `**
 
-I am a Passionate data scientist skilled in transforming complex data into actionable insights. Experienced with creating and deploying robust machine learning models. Let's connect and drive data-driven innovation together
+I am a passionate about everything related to data science. I specialize in designing and implementing scalable data solutions, extracting valuable insights from complex datasets, and developing advanced machine learning models. My diverse skill set spans data engineering, data science and machine learning engineering which allows me to tackle a wide range of data-related challenges. 
 
 - 🌱 I possess strong commitment to continuous learning and professional growth 
 - 👯 I’m looking to collaborate on data science and analytics projects
 
 <details open> 
-  <summary><h2>📘 My Top Data Science/Analytics Projects</h2></summary>
+  <summary><h2>📘 My Projects</h2></summary>
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
