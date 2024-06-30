@@ -5,7 +5,7 @@
 I am a passionate about everything related to data science. I specialize in designing and implementing scalable data solutions, extracting valuable insights from complex datasets, and developing advanced machine learning models. My diverse skill set spans data engineering, data science and machine learning engineering which allows me to tackle a wide range of data-related challenges. 
 
 - 🌱 I possess strong commitment to continuous learning and professional growth 
-- 👯 I’m looking to collaborate on data science and analytics projects
+- 👯 I’m looking to collaborate on data science projects
 
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
