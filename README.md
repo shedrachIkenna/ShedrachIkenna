@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Shedrach Ikenna Nwali</h2>
 
-**`Data Engineer || Data Scientist || Machine Learning Engineer `**
+**`Data Analyst || Data Scientist || Machine Learning Engineer `**
 
 I am a passionate about everything related to data science. I specialize in designing and implementing scalable data solutions, extracting valuable insights from complex datasets, and developing advanced machine learning models. My diverse skill set spans data engineering, data science and machine learning engineering which allows me to tackle a wide range of data-related challenges. 
 
