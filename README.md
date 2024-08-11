@@ -12,10 +12,10 @@ I am a passionate about everything related to data science. I specialize in desi
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
+<p align="left">
    <a href="https://github.com/ShedrachIkenna/Data-Cleaning-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Data-Cleaning-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
    <a href="https://github.com/ShedrachIkenna/Data-Analysis-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Data-Analysis-Projects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
-   <a href="https://github.com/ShedrachIkenna/Nashville_Housing_Data_Cleaning"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Nashville_Housing_Data_Cleaning&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/shedrachIkenna/Machine-Learning-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=ShedrachIkenna&repo=Machine-Learning-Projects-&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=true" alt="github-readme-streak-stats"></a>
 <p>
   <a href="https://github.com/ShedrachIkenna?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
