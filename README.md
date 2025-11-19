@@ -1,4 +1,4 @@
-<h1>Hi there 👋, I'm Shedrach Ikenna Nwali</h2>
+<h1>Hi there 👋, I'm Shedrach</h2>
 
 **`Is intelligence artificial?...`**
 
